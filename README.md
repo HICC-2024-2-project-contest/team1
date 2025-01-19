@@ -1,5 +1,11 @@
 # 📚 다독다독 프로젝트
 
+<div align="center">
+<img width="329" alt="project_logo" src="https://github.com/nemanic3/Function_Specification/blob/master/readme%20%EB%85%B8%EC%85%98%20%ED%94%8C%EB%9E%9C.png">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnemanic3%2FFunction_Specification&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
+
 ---
 
 ## 📝 프로젝트 소개
@@ -9,15 +15,7 @@
 
 ---
 
-## ⭐️ 프로젝트 플랜
 
-<div align="center">
-<img width="1000" alt="project_logo" src="https://github.com/nemanic3/Function_Specification/blob/master/readme%20%EB%85%B8%EC%85%98%20%ED%94%8C%EB%9E%9C.png">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnemanic3%2FFunction_Specification&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
----
 
 ## 🌟 주요 기능
 
@@ -35,6 +33,20 @@
      
 4. **시각화된 통계**:
    - 읽은 책 통계 및 진행 상황 확인.
+
+---
+## ⭐️ 프로젝트 플랜
+
+| 작업명                     | 주차   | 날짜                       | 상태     | 역할         | 비고                                |
+|----------------------------|--------|----------------------------|----------|--------------|-------------------------------------|
+| 사용자 관리                | 1주차  | 2025년 1월 20일 ~ 2025년 1월 21일 | 시작 전 | 회원가입, 로그인/로그아웃 API 개발 | -                                   |
+| 도서 CRUD 기능             | 1주차  | 2025년 1월 22일 ~ 2025년 1월 23일 | 시작 전 | 등록, 수정, 삭제 API 및 프론트 개발 | -                                   |
+| API와 프론트엔드 연동 및 기본 화면 구성 | 1주차  | 2025년 1월 24일 ~ 2025년 1월 25일 | 시작 전 | 기본화면 - 메인 페이지, 마이페이지 UI 제작 | -                                   |
+| 1차 테스트 및 코드 리팩토링 | 1주차  | 2025년 1월 26일           | 시작 전 | -            | -                                   |
+| 감상문, 목표 설정/통계       | 2주차  | 2025년 1월 27일 ~ 2025년 1월 28일 | 시작 전 | 감상문 작성/조회 기능 개발, 독서 목표 설정 및 통계 시각화 | -                                   |
+| 추천 기능, 감상문            | 2주차  | 2025년 1월 29일 ~ 2025년 1월 30일 | 시작 전 | 평점 기반 추천 API, 감상문 공유 및 댓글 기능 구현 | -                                   |
+| 전체 기능 통합 및 시스템 테스트 | 2주차  | 2025년 1월 31일           | 시작 전 | -            | -                                   |
+| 최종 배포 준비 및 발표 자료 작성 | 2주차  | 2025년 2월 1일 ~ 2025년 2월 2일  | 시작 전 | -            | -                                   |
 
 ---
 
