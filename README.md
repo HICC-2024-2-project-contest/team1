@@ -128,6 +128,11 @@ $ npm start
 │   ├── pages : 라우팅 및 페이지별 구성
 │   ├── styles : 스타일 관리
 └── README.md : 프로젝트 설명 파일
+
 ```
+
+## 🔗 기능 명세서
+[기능 명세서 보러가기](https://github.com/nemanic3/Function_Specification/blob/master/%EB%8B%A4%EB%8F%85%20%EB%8B%A4%EB%8F%85%20%EA%B8%B0%EB%8A%A5%20%EB%AA%85%EC%84%B8%EC%84%9C.xlsx)  
+
 
 ---
