@@ -97,15 +97,6 @@ $ npm start
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
----
-
-## 📺 화면 구성
-
-| 메인 페이지  |  소개 페이지   |
-| :-------------------------------------------: | :------------: |
-|  <img width="329" src="https://via.placeholder.com/300x200" alt="placeholder image"/> |  <img width="329" src="https://via.placeholder.com/300x200" alt="placeholder image"/> |  
-| 독서 통계 페이지   |  리뷰 페이지   |  
-| <img width="329" src="https://via.placeholder.com/300x200" alt="placeholder image"/>   |  <img width="329" src="https://via.placeholder.com/300x200" alt="placeholder image"/>     |
 
 ---
 
