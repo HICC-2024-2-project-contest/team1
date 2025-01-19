@@ -1,7 +1,7 @@
 # 📚 다독다독 프로젝트
 
 <div align="center">
-<img width="500" alt="프로젝트 로고" src="https://github.com/HICC-2024-2-project-contest/team1/blob/main/KakaoTalk_20250119_221115619.png">
+<img width="400" alt="프로젝트 로고" src="https://github.com/HICC-2024-2-project-contest/team1/blob/main/KakaoTalk_20250119_221115619.png">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnemanic3%2FFunction_Specification&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
