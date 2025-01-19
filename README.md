@@ -1,17 +1,21 @@
 # 📚 다독다독 프로젝트
 
-<div align="center">
-<img width="329" alt="project_logo" src="https://github.com/nemanic3/Function_Specification/blob/master/readme%20%EB%85%B8%EC%85%98%20%ED%94%8C%EB%9E%9C.png">
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnemanic3%2FFunction_Specification&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>
-
 ---
 
 ## 📝 프로젝트 소개
 
 다독다독은 독서 기록 및 관리, 추천과 공유를 지원하는 웹 플랫폼입니다.  
 사용자가 읽은 책을 쉽게 기록하고 다른 사용자와 상호작용할 수 있는 환경을 제공합니다.
+
+---
+
+## ⭐️ 프로젝트 플랜
+
+<div align="center">
+<img width="329" alt="project_logo" src="https://github.com/nemanic3/Function_Specification/blob/master/readme%20%EB%85%B8%EC%85%98%20%ED%94%8C%EB%9E%9C.png">
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnemanic3%2FFunction_Specification&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 
 ---
 
