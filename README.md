@@ -64,7 +64,7 @@ $ npm start
 
 |      팀장 신성현       |          강 산        |       이나나          |       곽유나          |                                                                                                                
 | :------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | 
-|   <img width="160px" src="https://github.com/account" />    |   <img width="160px" src="https://avatars.githubusercontent.com/u/139611910?s=400&u=c3c4a6eb05429b73e109293cac9ad11680365b1a&v=4" />    |    <img width="160px" src="https://via.placeholder.com/150" alt="placeholder image" />    |    <img width="160px" src="https://via.placeholder.com/150" alt="placeholder image" />    |
+|   <img width="160px" src="https://avatars.githubusercontent.com/u/188848771?v=4" />    |   <img width="160px" src="https://avatars.githubusercontent.com/u/139611910?s=400&u=c3c4a6eb05429b73e109293cac9ad11680365b1a&v=4" />    |    <img width="160px" src="https://via.placeholder.com/150" alt="placeholder image" />    |    <img width="160px" src="https://via.placeholder.com/150" alt="placeholder image" />    |
 | **21학번 백엔드** | **23학번 프론드엔드**  | **23학번 백엔드**  | **24학번 디자이너**  |
 
 ---
