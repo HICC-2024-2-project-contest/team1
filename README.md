@@ -1,7 +1,7 @@
 # 📚 다독다독 프로젝트
 
 <div align="center">
-<img width="400" alt="프로젝트 로고" src="https://github.com/HICC-2024-2-project-contest/team1/blob/main/KakaoTalk_20250119_221115619.png">
+<img width="400" alt="프로젝트 로고" src="https://github.com/HICC-2024-2-project-contest/team1/blob/master/KakaoTalk_20250119_221115619.png">
 
 [![Hits](https://github.com/HICC-2024-2-project-contest/team1/blob/master/KakaoTalk_20250119_221115619.png)
 </div>
