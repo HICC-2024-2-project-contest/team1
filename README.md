@@ -1,9 +1,11 @@
+<div align="center">
+
 # 📚 다독다독 프로젝트
 
 
 <img width="400" alt="프로젝트 로고" src="https://github.com/HICC-2024-2-project-contest/team1/blob/master/KakaoTalk_20250119_221115619.png">
 
-<div align="center">
+<div align="left">
 ---
 
 
