@@ -45,7 +45,7 @@
 .register-btn {
   width: 100%;
   padding: 10px;
-  background-color: #007bff;
+  background-color: #FFC200;
   color: white;
   border: none;
   border-radius: 5px;
@@ -55,7 +55,7 @@
 }
 
 .register-btn:hover {
-  background-color: #0056b3;
+  background-color: #FFFCF2;
 }
 
 .login-redirect {
@@ -64,7 +64,8 @@
 }
 
 .login-redirect a {
-  color: #007bff;
+  color: #FFC200;
+  ;
   text-decoration: none;
 }
 
